@@ -147,34 +147,26 @@ Acesse `http://localhost:8501`, crie uma conta e faça login.
 ## 7. Telas do sistema
 
 > Salve os prints na pasta `docs/img/` com os nomes abaixo (ou ajuste os caminhos).
+<img width="1833" height="907" alt="tela_ocorrencia" src="https://github.com/user-attachments/assets/519831a7-8a81-4fd2-9936-235b4220de85" />
+<img width="1847" height="955" alt="tela_login" src="https://github.com/user-attachments/assets/4ce0d857-0fed-4bce-967c-b9cc8045d9ad" />
+<img width="1837" height="958" alt="tela_inicial" src="https://github.com/user-attachments/assets/8b2e3375-72db-401d-81a2-b52924b31b03" />
+<img width="1837" height="957" alt="tela_dashboard" src="https://github.com/user-attachments/assets/5327c941-b96e-4863-957f-6740814d7c54" />
+<img width="1811" height="963" alt="tela_cadastro" src="https://github.com/user-attachments/assets/d19140ab-c629-4822-9a1a-460fcf12f172" />
 
-### Página inicial
-![Página inicial](docs/img/landing.png)
-
-### Cadastro
-![Cadastro](docs/img/cadastro.png)
-
-### Login
-![Login](docs/img/login.png)
-
-### Dashboard
-![Dashboard](docs/img/dashboard.png)
-
-### Nova ocorrência
-![Nova ocorrência](docs/img/ocorrencia.png)
 
 ## 8. Integrantes do grupo
 
 | Nome | 
 |---|
-| Nome do integrante 1 |
-| Nome do integrante 2 |
-| Nome do integrante 3 |
+| Cauã Pisano Monteiro|
+| Guilherme Costa Silva |
+| kauan de Freitas Miranda|
+| Yuri Franco Martins da Costa |
 
 ## 9. Instituição e disciplina
 
-- **Instituição:** *(nome da instituição)*
-- **Curso:** *(nome do curso)*
-- **Disciplina:** *(nome da disciplina)*
-- **Professor(a):** *(nome do professor)*
-- **Semestre/Ano:** *(ex.: 2026.2)*
+- **Instituição:** *UNIP *
+- **Curso:** *Sistema de Informação*
+- **Disciplina:** *Projeto e desenvolvimento*
+- **Professor(a):** *Marcus*
+- **Semestre/Ano:** *2-2026*
